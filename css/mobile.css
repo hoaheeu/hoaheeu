@@ -1,0 +1,41 @@
+#mobilehead {
+    display: block;
+    left: 0;
+    margin: 0 auto;
+    position: relative;
+    width: 800px;
+}
+
+#mobilehead h1 {
+    margin: 0;
+    padding: 30px 0 10px 30px;
+    width: 770px;
+}
+
+#mobilehead h1 a {
+    color: #ff8700;
+    font-size: 52px;
+    font-weight: normal;
+    line-height: 52px;
+}
+
+#mobilehead h2 {
+    color: #c0c0c0;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0 0 30px 5px;
+    padding: 0 30px;
+}
+
+.rightcolumn {
+    display: none;
+}
+
+#content {
+    width: auto;
+}
+
+#container {
+    margin: auto;
+    float: none;
+}

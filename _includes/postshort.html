@@ -1,0 +1,53 @@
+<div class="postshort {% unless post.imagethumb %}withoutimage{% endunless %}">
+    <div class="title">
+
+    {% if post.image %}
+        
+        {% if post.imagethumb %}
+        <a href="{{ post.url }}">
+            <img class="my" src="{{ post.image }}" width="380" {% if post.imagethumbheight %}height="{{ post.imagethumbheight }}"{% endif %} alt="{{ post.imagealt }}" />
+        </a>
+        {% else %}
+        <a href="{{ post.url }}">
+            <img class="my" src="{{ post.image }}" width="380" {% if post.imageheight %}height="{{ post.imageheight }}"{% endif %} alt="{{ post.imagealt }}" />
+        </a>
+        {% endif %}
+
+        {% unless post.nodarkbg %}<div class="bg"></div>{% endunless %}
+        <h2 class="white"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+        <a class="continue_onpic" href="{{ post.url }}"><i class="fa fa-chevron-right"></i></a>
+
+        <div class="tagbox">
+            <div class="tags">
+                {% if post.tags.size > 0 %}
+                    {% for tag in post.tags %}
+                        <a href="/{{ tag | replace:' ','-' | downcase | replace:'é','e' | replace:'í','i' | replace:'á','a' }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        {% if post.imageby %}
+        <div class="imageby belowpic">
+          {{ post.imageby }}
+        </div>
+        {% endif %}
+    </div>
+
+    {% else %}
+        <h2 class="dark"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+    <div class="continue_withoutimage"><a href="{{ post.url }}"><i class="fa fa-chevron-right"></i></a></div>
+
+    <div class="tags withoutimage">
+        {% if post.tags.size > 0 %}
+            {% for tag in post.tags %}
+                <a href="/{{ tag | replace:' ','-' | downcase | replace:'é','e' | replace:'í','i' | replace:'á','a' }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+            {% endfor %}
+        {% endif %}
+    </div>
+    {% endif %}
+    <div class="clear"></div>
+
+</div>

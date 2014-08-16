@@ -1,0 +1,64 @@
+---
+layout: default
+---
+<div class="post">
+  <h2>{{ page.title }}</h2>
+  {% if page.image %}
+    <div class="img">
+      {% if page.imagelink %}
+        <a href="{{ page.imagelink }}">
+        <img class="my" src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
+        </a>
+      {% else %}
+        <img class="my" src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}" />
+      {% endif %}
+
+      {% if page.imageby %}
+        <div class="imageby belowpic">
+          {% capture desc_length %}{{ page.imagedesc | size | minus:1 }}{% endcapture %}
+          {% unless desc_length contains '-' %}
+            {{ page.imagedesc }} 
+          {% endunless %}
+          {{ page.imageby | replace: 'photo', 'Photo' }}.
+        </div>
+        <div class="clear"></div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="gap"></div>
+  
+  {{ content }}
+  
+  {% if page.tags.size > 0 %}
+    <div class="tags_in_article"><span><i class="fa fa-tag"></i></span> &nbsp;
+      {% for tag in page.tags %}
+        <a href="/{{ tag | replace:' ','-' | downcase | replace:'é','e' | replace:'í','i' | replace:'á','a' }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+      {% endfor %}
+    </div>
+    <div class="clear"></div>
+  {% endif %}
+
+  {% include share.html %}
+    
+  <div class="previous_next">
+    {% if page.previous.url %}
+      <div class="previous">
+        <a href="{{page.previous.url}}">
+          <div class="np">předešlý článek:</div>
+          <div class="np_title">{{page.previous.title}}</div>
+        </a>
+      </div>
+    {% endif %}
+
+    {% if page.next.url %}
+      <div class="next">
+        <a href="{{page.next.url}}">
+          <div class="np">další článek:</div>
+          <div class="np_title">{{page.next.title}}</div>
+        </a>
+      </div>
+    {% endif %} 
+    <div class="clear"></div>
+  </div>
+</div>

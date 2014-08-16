@@ -1,0 +1,497 @@
+body {
+    color: #626262;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 17px;
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+h3 {
+    color: #C0C0C0;
+    font-size: 22px;
+    font-weight: normal;
+    margin: 30px 0 10px;
+    padding: 0 30px;
+}
+
+p {
+    font-size: 17px;
+    line-height: 30px;
+    margin: 0 30px 20px;
+    padding: 0;
+
+}
+
+.img {
+    padding: 0 0 30px;
+    position: relative;
+    margin: 0 auto;
+}
+
+img.my {
+    background-color: #000000;
+    border: none;
+    color: #000000;
+    display: block;
+    max-width: 100%;
+}
+
+.paddingtop {
+    padding-top: 15px;
+}
+
+a {
+    color: #ff8700;
+    text-decoration: none;
+    border: none;
+}
+
+.linkcolor {
+    color: #ff8700;
+}
+
+a.tag:hover {
+    text-decoration: underline;
+}
+
+.imageby a:hover {
+    text-decoration: underline;
+}
+
+
+/* remove ugly dotted lines around clicked links and buttons in FF */
+a { outline: none; }
+button::-moz-focus-inner { border: 0; }
+
+/* remove highlight border around selected form controls in Chrome and Safari */
+*:focus { outline: none; }
+
+.twittercolor {
+    color: #43BFFB;
+}
+
+.facebookcolor {
+    color: #304EA8;
+}
+
+.pinterestcolor {
+    color: #CB2028;
+}
+
+.rsscolor {
+    color: orange;
+}
+
+
+#content {
+    margin: 0 auto;
+    width: 1150px;
+}
+
+#container {
+    float: left;
+    margin-top: 50px;
+    position: relative;
+    width: 800px;
+}
+
+.rightcolumn {
+    float: right;
+    width: 302px;
+}
+
+#mobilehead {
+    display: none;
+}
+
+#head {
+    margin: 45px 0 30px;
+}
+
+#head h1 {
+    margin: 8px 0 12px;
+}
+
+#head h1 a {
+    color: #ff8700;
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 52px;
+}
+
+.title {
+    min-height: 55px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.title .bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: url("../i/gradient.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#head h2 {
+    color: #969696;
+    font-size: 16px;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.title h2 {
+    left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+}
+.title h2 a {
+    display: block;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 32px;
+    padding: 18px 10px 20px 22px;
+}
+.title h2.white a {
+    color: #ffffff;
+    height: 65px;
+    text-shadow: 1px 1px 2px #000000;
+    width: 348px;
+}
+.title h2.dark a {
+    color: #717171;
+}
+.post h2 {
+    color: #808080;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 32px;
+    margin: 0;
+    padding: 0 30px 25px;
+    width: 700px;
+}
+.post h2 span {
+    color: #ff8700;
+}
+
+.subscribe {
+    color: #e4e4e4;
+    padding: 20px 0;
+}
+
+.post {
+    padding: 0 0 30px;
+}
+
+.column {
+    float: left;
+    width: 380px;
+}
+
+.columnright {
+    padding: 0 0 0 40px;
+}
+
+.postshort {
+    margin: 0 0 35px;
+    padding: 0;
+    position: relative;
+}
+
+.postshort.withoutimage {
+    background-color: #f5f5f5;
+    height: 240px;
+}
+
+.tags_in_article {
+    float: left;
+    padding: 30px;
+}
+
+.tags_in_article span {
+    color: silver;
+}
+
+.tags.withoutimage {
+    font-family: verdana, arial, sans-serif;
+    bottom: 25px;
+    font-size: 16px;
+    left: 22px;
+    line-height: 25px;
+    padding: 2px;
+    position: absolute;
+}
+.tags.withoutimage a {
+    background-color: #929292;
+    color: white;
+    display: block;
+    padding: 4px 11px;
+    text-decoration: none;
+}
+.tags.withoutimage a:hover {
+    text-decoration: none;
+}
+
+.tagbox {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+    bottom: 40px;
+    font-size: 16px;
+    left: 22px;
+    line-height: 25px;
+    padding: 2px;
+    position: absolute;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.tagbox a {
+    color: #ffffff;
+    display: block;
+    font-family: verdana,arial,sans-serif;
+    padding: 3px 10px;
+}
+
+.tagbox a:hover {
+    text-decoration: none;
+}
+
+.continue_onpic {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
+    bottom: 40px;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 6px 30px 6px 15px;
+    position: absolute;
+    right: 0;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.continue_withoutimage {
+    bottom: 26px;
+    font-family: verdana,arial,sans-serif;
+    font-size: 16px;
+    position: absolute;
+    right: 0;
+}
+.continue_withoutimage a {
+    background-color: #ff8700;
+    color: white;
+    display: block;
+    padding: 6px 30px 6px 15px;
+}
+
+.imageby {
+    font-size: 12px;
+    height: 14px;
+    padding: 2px 30px 2px 5px;
+    position: absolute;
+    right: 0;
+}
+.imageby.belowpic {
+    bottom: 0;
+    color: #626262;
+}
+.imageby.light {
+    background-color: white;
+    color: #626262;
+    text-shadow: none;
+}
+.imageby a:focus {
+    text-decoration: underline;
+}
+.imageby em {
+    font-family: verdana,arial,sans-serif;
+    font-style: normal;
+    line-height: 12px;
+}
+
+.tagslist {
+    float: left;
+    line-height: 30px;
+    margin-top: 25px;
+    padding: 0 30px 30px;
+    width: 335px;
+}
+
+#footer {
+    color: #C0C0C0;
+    padding: 30px 0 150px;
+}
+
+#footer .subscribe {
+    padding: 20px 30px;
+}
+
+#links {
+    padding: 20px 0;
+    text-align: right;
+}
+
+#links a {
+    color: silver;
+}
+
+.filtered {
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    margin-bottom: 55px;
+}
+
+.filteredby {
+    background-color: white;
+    color: #9a9a9a;
+    display: block;
+    float: left;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 15px 30px;
+}
+
+.filteredby.back {
+    width: 500px;
+}
+
+.filteredby strong {
+    color: #585858;
+}
+
+.filteredby.close {
+    font-size: 16px;
+    text-align: right;
+    width: 180px;
+}
+
+.previous_next {
+    margin-top: 30px;
+    padding: 35px 30px;
+}
+
+.previous_next .previous {
+    float: left;
+}
+
+.previous_next .next {
+    float: right;
+    text-align: right;
+}
+
+.previous_next .previous, .previous_next .next {
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+}
+
+.previous_next a {
+    border: none;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    width: 330px;
+}
+
+.np {
+    color: #b4b4b4;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+
+.np_title {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+#share {
+    padding: 15px 30px 5px;
+}
+
+.share {
+    float: left;
+    padding: 0 30px 0 0;
+}
+
+.gap {
+    height: 40px;
+    position: relative;
+}
+
+.pinterest_btn {
+    bottom: 30px;
+    left: 30px;
+    position: absolute;
+}
+
+#wrapper {
+    position: relative;
+}
+
+#overlay {
+    bottom: 45px;
+    position: absolute;
+    text-align: right;
+    width: 800px;
+}
+
+#overlay p {
+    line-height: 30px;
+    margin: 10px 0;
+    padding: 0;
+}
+
+#overlay p span {
+    background-color: white;
+    color: #3a3a3a;
+    font-size: 17px;
+    padding: 5px 30px 5px 10px;
+}
+
+#overlay p a {
+    color: #EB2700;
+}
+
+.tag_info {
+    padding: 10px 0 30px;
+}
+
+.tag_info h4 {
+    color: #808080;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 25px 0 0;
+    padding: 0 30px 25px;
+}
+
+.pagination {
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    margin-bottom: 40px;
+    padding: 15px 0;
+}
+
+#secondaryfooter {
+    border-top: 1px dotted silver;
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+
+.bottom_menu {
+    font-size: 18px;
+    padding: 0 30px;
+    text-align: right;
+}

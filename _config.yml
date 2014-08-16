@@ -1,0 +1,8 @@
+name: Hoaheeu!
+markdown: redcarpet
+description: "Zajímavosti, tipy, fotografie. Chceme vám zprostředkovat to co je krásné, co pro vás může být užitečné, co vás může bavit."
+url: http://hoahe.eu
+permalink: /:title
+fbappid: 718976694834055 # facebook app ID
+paginate: 16
+paginate_path: "/:num"

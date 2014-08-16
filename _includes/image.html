@@ -1,0 +1,15 @@
+<div class="img paddingtop" {% if imagewidth < 800 %}style="width:{{imagewidth}}px;"{% endif %}>
+  <img class="my" src="{{ image }}" width="{{ imagewidth }}" height="{{ imageheight }}" alt="{{ imagealt }}">
+
+  {% if imageby %}
+    <div class="imageby belowpic">
+      {% capture desc_length %}{{ imagedesc | size | minus:1 }}{% endcapture %}
+        {% unless desc_length contains '-' %}
+          {{ imagedesc }} 
+        {% endunless %}
+      {{ imageby | replace: 'foto', 'Foto' }}.
+    </div>
+  {% endif %}
+</div>
+
+<div class="gap"></div>
