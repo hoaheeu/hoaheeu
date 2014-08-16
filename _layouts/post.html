@@ -19,27 +19,37 @@ layout: default
           {% unless desc_length contains '-' %}
             {{ page.imagedesc }} 
           {% endunless %}
-          {{ page.imageby | replace: 'photo', 'Photo' }}.
+          {{ page.imageby | replace: 'photo <', 'Foto <' }}.
         </div>
         <div class="clear"></div>
       {% endif %}
     </div>
   {% endif %}
 
+  {% include share.html %}
+
   <div class="gap"></div>
   
   {{ content }}
-  
-  {% if page.tags.size > 0 %}
-    <div class="tags_in_article"><span><i class="fa fa-tag"></i></span> &nbsp;
-      {% for tag in page.tags %}
-        <a href="/{{ tag | replace:' ','-' | downcase | replace:'é','e' | replace:'í','i' | replace:'á','a' }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </div>
-    <div class="clear"></div>
-  {% endif %}
 
-  {% include share.html %}
+  <div class="authortags">
+  {% if page.by %}
+      <div class="author"><span><i class="fa fa-user" title=" autor "></i></span> &nbsp; {{ page.by }}</div>
+    {% endif %}
+    
+    {% if page.tags.size > 0 %}
+      <div class="tags_in_article"><span><i class="fa fa-tag" title=" tagy "></i></span> &nbsp;
+        {% for tag in page.tags %}
+          <a href="/{{ tag | replace:' ','-' | downcase | replace:'é','e' | replace:'í','i' | replace:'á','a' }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+    <div class="clear"></div>
+    </div>
+
+  {% if page.sharebottom %}
+    {% include share.html %}
+  {% endif %}
     
   <div class="previous_next">
     {% if page.previous.url %}

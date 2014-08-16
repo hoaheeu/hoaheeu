@@ -11,7 +11,7 @@ imagethumb: 'http://farm9.staticflickr.com/8505/8459045507_30e118ce45_n.jpg'
 imagethumbheight: 252
 imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/ruggin/8459045507">Ryan Smith</a>'
 imagelink: 'http://farm9.staticflickr.com/8505/8459045507_4406dfd1f9_h.jpg'
-imagealt: ""
+imagealt: "Běžec a sopka"
 imageheight: 532
 imagedesc: ""
 

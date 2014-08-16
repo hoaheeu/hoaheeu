@@ -11,7 +11,7 @@ imagethumb: 'http://farm2.staticflickr.com/1430/1328402515_7ec84c7626_n.jpg'
 imagethumbheight: 246
 imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/clairity/1328402515">Sharon Mollerus</a>'
 imagelink: 'http://farm2.staticflickr.com/1430/1328402515_7ec84c7626_b.jpg'
-imagealt: ""
+imagealt: "Jahody"
 imageheight: 519
 imagedesc: ""
 

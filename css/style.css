@@ -185,7 +185,7 @@ button::-moz-focus-inner { border: 0; }
     width: 700px;
 }
 .post h2 span {
-    color: #ff8700;
+    color: #9ae400;
 }
 
 .subscribe {
@@ -217,14 +217,22 @@ button::-moz-focus-inner { border: 0; }
     height: 240px;
 }
 
-.tags_in_article {
-    float: left;
-    padding: 30px;
+.authortags {
+    padding: 15px 30px;
 }
 
-.tags_in_article span {
+.tags_in_article, .author {
+    float: left;
+}
+
+.authortags span {
     color: silver;
 }
+
+.author {
+    padding-right: 30px;
+}
+
 
 .tags.withoutimage {
     font-family: verdana, arial, sans-serif;
@@ -239,7 +247,7 @@ button::-moz-focus-inner { border: 0; }
     background-color: #929292;
     color: white;
     display: block;
-    padding: 4px 11px;
+    padding: 4px 10px;
     text-decoration: none;
 }
 .tags.withoutimage a:hover {
@@ -248,20 +256,19 @@ button::-moz-focus-inner { border: 0; }
 
 .tagbox {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
-    bottom: 40px;
+    bottom: 42px;
     font-size: 16px;
     left: 22px;
     line-height: 25px;
-    padding: 2px;
+    padding: 4px 10px;
     position: absolute;
     text-shadow: 1px 1px 2px #000000;
 }
 
 .tagbox a {
     color: #ffffff;
-    display: block;
     font-family: verdana,arial,sans-serif;
-    padding: 3px 10px;
+    padding: 0;
 }
 
 .tagbox a:hover {
@@ -270,11 +277,11 @@ button::-moz-focus-inner { border: 0; }
 
 .continue_onpic {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0.6);
-    bottom: 40px;
+    bottom: 42px;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
-    padding: 6px 30px 6px 15px;
+    padding: 4px 30px 5px 15px;
     position: absolute;
     right: 0;
     text-shadow: 1px 1px 2px #000000;
@@ -291,13 +298,14 @@ button::-moz-focus-inner { border: 0; }
     background-color: #ff8700;
     color: white;
     display: block;
-    padding: 6px 30px 6px 15px;
+    line-height: 25px;
+    padding: 4px 30px 4px 15px;
 }
 
 .imageby {
     font-size: 12px;
     height: 14px;
-    padding: 2px 30px 2px 5px;
+    padding: 2px 0 2px 5px;
     position: absolute;
     right: 0;
 }
@@ -353,7 +361,6 @@ button::-moz-focus-inner { border: 0; }
 
 .filteredby {
     background-color: white;
-    color: #9a9a9a;
     display: block;
     float: left;
     font-size: 20px;
@@ -414,8 +421,8 @@ button::-moz-focus-inner { border: 0; }
     font-weight: normal;
 }
 
-#share {
-    padding: 15px 30px 5px;
+.sharebuttons {
+    padding: 30px 30px 5px;
 }
 
 .share {
