@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '<span>Fotka dne</span>: běžec pod dohledem sopky'
+title:  'Fotka dne: běžec pod dohledem sopky'
 date:   2014-07-04 20:00:00
 by: hoaheeu
 tags:
