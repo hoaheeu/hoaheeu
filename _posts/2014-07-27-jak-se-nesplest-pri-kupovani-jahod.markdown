@@ -2,7 +2,7 @@
 layout: post
 title:  'Jak se nesplést při kupování jahod'
 date:   2014-07-29 20:00:00
-by: 'Josee.'
+by: 'hoaheeu'
 tags:
 - 'mini tipy'
 
