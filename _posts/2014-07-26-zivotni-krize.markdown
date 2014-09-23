@@ -7,9 +7,9 @@ tags:
 - 'osobní'
 sharebottom: true
 ---
-V posledních letech jsem prakticky pořád tvrdě pracoval, a teď se dostavil výsledek - žena se se mnou rozvádí. Její nový přítel má na ni víc času než já, a není pořád tak otrávený, unavený a podrážděný. Byl jsem nucen si sbalit svých pár švestek a odtáhnout z našeho domova (byt patřil ženě už před tím než jsme se vzali).
+V posledních letech jsem prakticky pořád tvrdě pracoval, a výsledek se dostavil - žena se se mnou rozvádí. Její nový přítel má na ni víc času než já, a není pořád tak otrávený, unavený a podrážděný. Byl jsem nucen si sbalit svých pár švestek a odtáhnout z našeho domova, protože byt patřil ženě už před tím než jsme se vzali.
 
-Můj ústup z pozic byl sám o sobě ponižující, ale ještě ke všemu jsem svého soka potkal před barákem, když jsem odcházel s trapně malým batohem obsahujícím veškerý můj majetek. Měl ve tváři stejný výraz jako když Adolf Hitler bez odporu vjížděl do Prahy, tak jsem se snažil kontrovat pohrdavým pohledem s příměsí morální převahy, ale zrovna v tu chvíli mě jeden z chlapečků hrajících si na přilehlém hřišti zasáhl míčem do čela. Nenapadlo mě nic lepšího než se jako by nic podívat na svůj telefon, předstírat že tam vidím velmi neodkladnou pozvánku na party odehrávájící se právě v ten moment v deset hodin dopoledne, a rychle odejít.
+Můj ústup z pozic byl sám o sobě ponižující, ale ještě ke všemu jsem svého soka potkal před barákem, když jsem odcházel s trapně malým batohem obsahujícím veškerý můj majetek. Měl ve tváři stejný výraz jako Adolf Hitler když bez odporu vjížděl do Prahy, tak jsem se snažil kontrovat pohrdavým pohledem s příměsí morální převahy, ale zrovna v tu chvíli mě jeden z chlapečků hrajících si na přilehlém hřišti zasáhl míčem do čela. Nenapadlo mě nic lepšího než se jako by nic podívat na svůj telefon, předstírat že tam vidím velmi neodkladnou pozvánku na party odehrávájící se právě v ten moment v deset hodin dopoledne, a rychle odejít.
 
 Nemám teď skoro nic, dokonce mám jenom dva páry ponožek. Abych se přiznal, než jsem odešel z (brzo již ex)manželčina bytu, všechny svoje použité ponožky jsem rozmístil za pračkou, v šatníku a pod naší ex-manželskou postelí. Byl to náhlý iracionální impuls a nejsem na to pyšný.
 
