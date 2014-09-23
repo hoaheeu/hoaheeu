@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <h2>{{ page.title | replace:'Fotka dne','<span>Fotka dne</span>' }}</h2>
+  <h2>{{ page.title | replace:'Fotka dne:','<span>Fotka dne:</span>' | replace:'Tip:','<span>Tip:</span>' }}</h2>
   {% if page.image %}
     <div class="img">
       {% if page.imagelink %}
