@@ -26,7 +26,7 @@ layout: default
     </div>
   {% endif %}
 
-  {% if page.imagealt %}
+  {% if page.pinit %}
   <div class="gap">
     <div class="pinterest_btn">
         <a href="//www.pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&amp;media={{ site.url }}{{ page.image }}&amp;description={{ page.imagealt | replace: ' ', '%20' | replace: '&', '%26' | replace: '?', '%3F' | replace: '!', '%21' | replace: ',', '%2C' }}.%20{{ page.imageby | strip_html | replace: 'foto', 'Foto' | replace: ' ', '%20' | replace: '&', '%26' | replace: '?', '%3F' | replace: '!', '%21' | replace: ',', '%2C' }}." data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" alt="p" /></a>

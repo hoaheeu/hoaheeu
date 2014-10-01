@@ -6,6 +6,15 @@ by: hoaheeu
 tags:
 - 'osobní'
 sharebottom: true
+
+image: 'http://c2.staticflickr.com/6/5116/14171582365_f911351ba2_h.jpg'
+imagethumb: 'http://c2.staticflickr.com/6/5116/14171582365_31342bdc90_n.jpg'
+imagethumbheight: 254
+imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/pasotraspaso/14171582365">Jesus Solana</a>'
+imagelink: 'http://c2.staticflickr.com/6/5116/14171582365_f911351ba2_h.jpg'
+imagealt: ""
+imageheight: 534
+imagedesc: ""
 ---
 V posledních letech jsem prakticky pořád tvrdě pracoval, a výsledek se dostavil - žena se se mnou rozvádí. Její nový přítel má na ni víc času než já, a není pořád tak otrávený, unavený a podrážděný. Byl jsem nucen si sbalit svých pár švestek a odtáhnout z našeho domova, protože byt patřil ženě už před tím než jsme se vzali.
 
