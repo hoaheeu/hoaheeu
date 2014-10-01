@@ -22,7 +22,9 @@ Můj ústup z pozic byl sám o sobě ponižující, ale ještě ke všemu jsem s
 
 Nemám teď skoro nic, dokonce mám jenom dva páry ponožek. Abych se přiznal, než jsem odešel z (brzo již ex)manželčina bytu, všechny svoje použité ponožky jsem rozmístil za pračkou, v šatníku a pod naší ex-manželskou postelí. Byl to náhlý iracionální impuls a nejsem na to pyšný.
 
-Kdyby aspoň ten její přítel byl někdo, koho bych mohl respektovat. Dokážu objektivně uznat, že nejsem zrovna nejlepší manžel, a úplně bych chápal kdyby si našla nějakého dobrého chlapa... ale proč takového vola? Nesnášel jsem ho od chvíle, kdy mi tři minuty po našem seznámení položil ruku plnou nárámků přátelství na rameno a s nechutně soucitným výrazem mi sdělil, že se musím naučit "žít tady a teď" a že "všechno co se nám stane má svůj důvod". Jasně, kreténe, to že mě moje žena žena opustila má důvod i v tom, že si potřebuješ léčit mindráky balením cizích bab (což jsem bohužel řekl jen v duchu). A jak mu ta moje může žrát ty idiotské fráze o tantře, pozitivním přístupu a meditaci v životě nepochopím. Vzhlíží k němu jak kdyby se před ní reinkarnoval sám Gándhí.
+Kdyby aspoň ten její přítel byl někdo, koho bych mohl respektovat. Dokážu objektivně uznat, že nejsem zrovna nejlepší manžel, a úplně bych chápal kdyby si našla nějakého dobrého chlapa... ale proč takového vola? Nesnášel jsem ho od chvíle, kdy mi tři minuty po našem seznámení položil ruku plnou nárámků přátelství na rameno a s nechutně soucitným výrazem mi sdělil, že se musím naučit "žít tady a teď" a že "všechno co se nám stane má svůj důvod".
+
+Jasně, kreténe, to že mě moje žena žena opustila má důvod i v tom, že si potřebuješ léčit mindráky balením cizích bab (což jsem bohužel řekl jen v duchu). A jak mu ta moje může žrát ty idiotské fráze o tantře, pozitivním přístupu a meditaci v životě nepochopím. Vzhlíží k němu jak kdyby se před ní reinkarnoval sám Gándhí.
 
 V práci jsem dostal padáka. Ne že bych to měl šéfovi za zlé. Byl to dobrý šéf, velmi profesionální. Když mě propouštěl, tvářil se přesně jako figurant z korporátního instruktážního videa "Komunikační dovednosti pro manažery: 4. kapitola - předstírání empatie".
 
