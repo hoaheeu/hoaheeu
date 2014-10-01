@@ -38,6 +38,6 @@ Pracně se snažím přesvědčit sám sebe, že ten můj momentální pád do n
 
 Na spoustu věcí jsem v posledních letech neměl čas. Co kdybych se zase trochu podíval po světě? Začal zase sportovat? Co kdybych si zkusil vymyslet nějaký vlastní mini-byznys, abych si mohl dělat věci po svém?
 
-Nedávno jsem jel někam vlakem. Jeli tam i nějací študáci, bavili se o knížkách, filmech a cestování, smáli se a navzájem se popichovali. Venku už byla tma a v odrazu v okně jsem uviděl sám sebe. Vypadal jsem jako mrtvola, kterou někdo posadil mezi školní výlet. A taky jsem se tak cítil. Chci zase začít žít.
+Nedávno jsem jel někam vlakem. Jeli tam i nějací študáci, bavili se o knížkách, filmech a cestování, smáli se a navzájem se popichovali. Venku už byla tma a v odrazu v okně jsem uviděl sám sebe. Vypadal jsem jako mrtvola, kterou někdo posadil mezi školní výlet. A taky jsem se tak cítil.
 
-Je mi osmatřicet a jsem zase úplně na nule. Vzpomněl jsem si teď na první díl Futuramy, jak si Fry uvědomí že se nedopatřením dostal do roku 3000 a už se nemůže vrátit - "panebože, tohle je budoucnost... rodiče, kolegové, moje přítelkyně, nikdy už nikoho z nich neuvidím... juhůůůů!" - už když jsem to viděl poprvé tak na mě to kouzlo nového začátku působilo. Musím se na to znova podívat.
+Je mi osmatřicet a jsem zase úplně na nule. Chci zase začít žít. Vzpomněl jsem si teď na první díl Futuramy, jak si Fry uvědomí že se nedopatřením dostal do roku 3000 a už se nemůže vrátit - "panebože, tohle je budoucnost... rodiče, kolegové, moje přítelkyně, nikdy už nikoho z nich neuvidím... juhůůůů!" - už když jsem to viděl poprvé tak na mě to kouzlo nového začátku působilo. Musím se na to znova podívat.
