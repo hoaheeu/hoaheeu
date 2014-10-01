@@ -30,7 +30,9 @@ Pravda je, že jsem v poslední době neodváděl nejlepší výkony. Nějak jse
 
 Zdá se, že jsem dopadl tvrdě na prdel. Skoro mi připadá, že i penis se mi zmenšil. Posledních pár dní jsem neměl chuť dělat nic jiného než ležet na matraci ve své jinak zcela prázdné pronajaté garsonce, koukat na notebooku na jeden díl Californication za druhým a utápět se v depresi.
 
-Chtěl bych být mnohem víc jako Hank Moody. Vždycky cool, každá žena dělá všechno proto aby se mu dostala do postele. A rozhodně to není "takovej hodnej kluk", což ženy říkají o mně. Ve skutečnosti nijak zvlášť hodnej nejsem, jen mě v dětství bohužel naučili vždy se snažit všem vyhovět. "Ty seš fakt hodnej kluk" - tenhle "kompliment" teď na mě působí jako kombinace plivnutí do ksichtu a nakopnutí do koulí. Ve skutečností to od ženy znamená "budu spát s největším blbcem v okolí a stěžovat si na něj tobě". Ne že bych se chtěl začít chovat bezohledně, ale tohohle už mám fakt plné zuby. 
+Chtěl bych být mnohem víc jako Hank Moody. Vždycky cool, každá žena dělá všechno proto aby se mu dostala do postele. A rozhodně to není "takovej hodnej kluk", což ženy říkají o mně. Ve skutečnosti nijak zvlášť hodnej nejsem, jen mě v dětství bohužel naučili vždy se snažit všem vyhovět.
+
+"Ty seš fakt hodnej kluk" - tenhle "kompliment" teď na mě působí jako kombinace plivnutí do ksichtu a nakopnutí do koulí. Ve skutečností to od ženy znamená "budu spát s největším blbcem v okolí a stěžovat si na něj tobě". Ne že bych se chtěl začít chovat bezohledně, ale tohohle už mám fakt plné zuby. 
 
 Pracně se snažím přesvědčit sám sebe, že ten můj momentální pád do naprostých sraček třeba bude k něčemu dobrý. Je fakt, že jsem stejně nebyl šťastný. V manželství jsem si připadal tak nějak osamělý už dávno před tím než se objvil "veliký jogín". V práci mě to už dlouho nebavilo. V osmnácti jsem si představoval něco tvořivějšího než kódovat padesátý osmý CRM systém pro nějaké korporátní monstrum. Prostě jsem tak nějak dělal co se ode mě očekávalo a bál se něco změnit.
 
