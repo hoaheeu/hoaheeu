@@ -437,7 +437,7 @@ button::-moz-focus-inner { border: 0; }
 .share {
     float: left;
     padding: 0 20px 0 0;
-    min-width: 100px;
+    min-width: 80px;
 }
 
 .gap {
